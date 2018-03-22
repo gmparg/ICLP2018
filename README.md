@@ -3,17 +3,17 @@ A Trajectory Calculus for Qualitative Spatial Reasoning Using Answer Set Program
 
 
 encodings
-  -  	TC10-coi7.asp 	          COI7 encoding for TC-10
-  -   TC10-ctsa.asp 	          CTSA encoding for TC-10
-  -   TC10-ctsa2.asp 	          CTSA2 encoding for TC-10
-  -   TC10-gen.asp 	          GEN encoding for TC-10
-  -   TC6-coi7.asp 	          COI7 encoding for TC-6
-  -   TC6-ctsa.asp 	          CTSA encoding for TC-6
-  -   TC6-ctsa2.asp 	          CTSA2 encoding for TC-6
-  -   TC6-gen.asp 	          GEN encoding for TC-6
-  -   coi7-ctsa-input.asp 	  Input encoding for COI7 and CTSA
-  -   ctsa2-input.asp 	          Input encoding for CTSA2
-  -   gen-input.asp               Input encoding for GEN
+  *  	TC10-coi7.asp 	          COI7 encoding for TC-10
+  *   TC10-ctsa.asp 	          CTSA encoding for TC-10
+  *   TC10-ctsa2.asp 	          CTSA2 encoding for TC-10
+  *   TC10-gen.asp 	          GEN encoding for TC-10
+  *   TC6-coi7.asp 	          COI7 encoding for TC-6
+  *   TC6-ctsa.asp 	          CTSA encoding for TC-6
+  *   TC6-ctsa2.asp 	          CTSA2 encoding for TC-6
+  *   TC6-gen.asp 	          GEN encoding for TC-6
+  *   coi7-ctsa-input.asp 	  Input encoding for COI7 and CTSA
+  *   ctsa2-input.asp 	          Input encoding for CTSA2
+  *   gen-input.asp               Input encoding for GEN
   
 CSV2ASPConverter.java             Java code used for the experiments, that converts the CSV dataset into ASP programs 
 
