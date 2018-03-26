@@ -21,3 +21,5 @@
 **Sampled_Trajectory_latlng.csv**:     Raw version of the dataset used in the experiments, in the form of latitude/longitude pairs
 
 **Sampled_Trajectory_region.csv**:     Dataset as used in the experiments, in the form of sequences of numbered regions
+* Mean length = 282 regions with standard deviation 33.27
+* 39.8% of trajectories start and end at the same region
