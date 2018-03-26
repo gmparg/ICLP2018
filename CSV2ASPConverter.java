@@ -24,7 +24,7 @@ public class CSV2ASPConverter {
 	private static final String pred_name = "element";		//name for trajectory predicates
 	private static final String var_name = "";				//name for trajectory predicate variables
 	private static final int size = 10;						//number of trajectories
-	private static final int degree = 1;					//number of known relations per trajectory pair
+	private static final int degree = 1;					//number of known relations per trajectory
 	private static final boolean tc10 = true;				//=false for tc6
 	private static final String encoding = "ctsa2";			//possible values: coi7, ctsa, ctsa2, gen
 	private static String aspFile = "C:/";		//ASP export path			
