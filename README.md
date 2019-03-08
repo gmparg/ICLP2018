@@ -1,5 +1,6 @@
 # ICLP2018
 ## A Trajectory Calculus for Qualitative Spatial Reasoning Using Answer Set Programming
+### https://doi.org/10.1017/S147106841800011X
 ### Supplementary Material
 
 
